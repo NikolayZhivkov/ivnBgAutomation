@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f98e9826-10de-495e-995f-221f64a65231" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1dgDXASgcjg9lQX7TWXlng9aAeI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+      <recent name="pages" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Nikolay\IdeaProjects\inv-functional-automation\invBg\src\test\java\BankAccount" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.LoginTest">
+    <configuration name="BankAccountUITest.canCreateBankAccountViaUI" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="invBg" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BankAccountUITest" />
+      <option name="METHOD_NAME" value="canCreateBankAccountViaUI" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BankAccountUITest.canDeleteBankAccountVisUI" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="invBg" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BankAccountUITest" />
+      <option name="METHOD_NAME" value="canDeleteBankAccountVisUI" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BankAccountUITest.canEditBankAccountVisUI" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="invBg" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BankAccountUITest" />
+      <option name="METHOD_NAME" value="canEditBankAccountVisUI" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BankAccountUITest.cantCreateBankAccountViaUIWithTheSameIbanNumber" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="invBg" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BankAccountUITest" />
+      <option name="METHOD_NAME" value="cantCreateBankAccountViaUIWithTheSameIbanNumber" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="invBg" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LoginTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.LoginTest" />
+        <item itemvalue="JUnit.BankAccountUITest.canEditBankAccountVisUI" />
+        <item itemvalue="JUnit.BankAccountUITest.canCreateBankAccountViaUI" />
+        <item itemvalue="JUnit.BankAccountUITest.canDeleteBankAccountVisUI" />
+        <item itemvalue="JUnit.BankAccountUITest.cantCreateBankAccountViaUIWithTheSameIbanNumber" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f98e9826-10de-495e-995f-221f64a65231" name="Default Changelist" comment="" />
+      <created>1592837879263</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592837879263</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="413" y="121" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1593017085521">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="121" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1366.728@0.0.1366.728" timestamp="1593017085521" />
+    <state x="413" y="113" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1593007118438">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="113" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1593007118438" />
+    <state x="463" y="121" key="FileChooserDialogImpl" timestamp="1593433659571">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="121" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1593433659571" />
+    <state width="1323" height="185" key="GridCell.Tab.0.bottom" timestamp="1593105605997">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="185" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1593105605997" />
+    <state width="1323" height="185" key="GridCell.Tab.0.center" timestamp="1593105605997">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="185" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1593105605997" />
+    <state width="1323" height="185" key="GridCell.Tab.0.left" timestamp="1593105605997">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="185" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1593105605997" />
+    <state width="1323" height="185" key="GridCell.Tab.0.right" timestamp="1593105605997">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="185" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1593105605997" />
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1593024032092">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1593024032092" />
+    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1593024032092">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1593024032092" />
+    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1593024032092">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1593024032092" />
+    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1593024032092">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1593024032092" />
+    <state x="213" y="21" key="Maven.ArtifactSearchDialog" timestamp="1593007728294">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="213" y="21" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1593007728294" />
+    <state x="391" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1593411841173">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="391" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1593411841173" />
+    <state x="65" y="68" key="new project wizard" timestamp="1593437118505">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="68" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1593437118505" />
+  </component>
+</project>
